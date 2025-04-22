@@ -1,0 +1,18 @@
+.changeTextColor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 1rem;
+    gap: 10px;
+}
+
+.changeTextColor input:hover {
+    border: 1px solid #535bf2;
+}
+
+.colorChange {
+    border-radius: 5px;
+    padding: 0.5px;
+    width: 30px;
+    height: 25px;
+}

@@ -1,0 +1,14 @@
+.contentBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.contentBox input {
+    width: 90%;
+}
+
+.contentBox button {
+    font-size: 10px;
+}
